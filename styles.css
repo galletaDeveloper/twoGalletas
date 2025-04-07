@@ -8,6 +8,10 @@ body {
     flex-direction: column;
     font-family: Arial, sans-serif;
 }
+.audio
+{
+    margin: 50px;
+}
 h1{
     font-size: 100px;
     margin-bottom: 80px;
