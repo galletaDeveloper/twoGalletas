@@ -60,3 +60,17 @@ h3
 {
     margin-top: 30px;
 }
+
+.ix
+{
+   margin: 130px 450px;
+   border-radius: 20px;
+   -webkit-box-shadow: 0px 4px 22px 0px rgba(204,190,204,1);
+-moz-box-shadow: 0px 4px 22px 0px rgba(204,190,204,1);
+box-shadow: 0px 4px 22px 0px rgba(204,190,204,1);
+}
+.ix-ix
+{
+    padding: 20px 40px;
+    justify-content:center;
+}
