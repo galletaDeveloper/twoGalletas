@@ -1,7 +1,7 @@
 body {
     margin: 0;
     height: 100vh;
-    background: #1f0a1b;
+    background: #ffffff;
     display: flex;
     align-items: center;
     justify-content: start;
@@ -13,42 +13,72 @@ body {
     margin: 50px;
 }
 h1{
-    font-size: 100px;
+    font-size: 80px;
     margin-bottom: 80px;
-    color: azure;
+    color: rgb(55, 56, 56);
 }
 .btn2
 {
     display: flex;
     gap: 70px;
-    
+    margin: 20px 90px;
+    flex-direction: column;
 }
 .btn21
 {
     text-decoration: none;
-    font-size: 50px;
-    background-color: rgb(150, 7, 155);
+    font-size: 30px;
+    background-color: rgb(117, 7, 121);
     padding: 10px;
     border-radius: 10px;
-    color: #e5e2e6;
+    color: #ffffff;
+    
 }
 .btn21:hover
 {
     text-decoration: none;
-    font-size: 50px;
+    
     background-color: rgb(218, 24, 224);
     padding: 10px;
     border-radius: 10px;
-    color: #c2b4c7;
+    color: #ffffff;
+    
+}
+
+.btn25
+{
+    text-decoration: none;
+    font-size: 30px;
+    background-color: rgb(160, 160, 160);
+    padding: 10px;
+    border-radius: 10px;
+    color: #ffffff;
+    
+}
+.btn25:hover
+{
+    text-decoration: none;
+    
+    background-color: rgb(44, 32, 44);
+    padding: 10px;
+    border-radius: 10px;
+    color: #ffffff;
+    
+}
+.arte
+{
+    
+    margin: 40px 120px;
 }
 h2{
     font-size: 40px;
-    margin-bottom: 80px;
-    color: azure;
+    margin-bottom: 40px 50px 80px 50px;
+    color: rgb(77, 75, 75);
+
 }
 h3
 {
-    color: #e5e2e6;
+    color: #707070;
 }
 .no
 {
@@ -77,4 +107,8 @@ box-shadow: 0px 4px 22px 0px rgba(204,190,204,1);
 {
     padding: 20px 40px;
     justify-content:center;
+}
+footer
+{
+    padding-top: 150px;
 }

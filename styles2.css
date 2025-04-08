@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #fef3ff;
+    background-color: #ffffff;
     font-family: Arial, sans-serif;
     overflow: hidden;
 }
@@ -14,8 +14,16 @@ body {
 
 }
 h1 {
-    font-size: 24px;
+    font-size: 44px;
     color: #5f5e5e;
     text-align: center;
-    margin: 50px;
+    margin: 30px 30px 0 30px;
+}
+.spot
+{
+    margin: 20px;
+
+    -webkit-box-shadow: 2px 2px 13px 4px rgba(0,0,0,0.75);
+-moz-box-shadow: 2px 2px 13px 4px rgba(0,0,0,0.75);
+box-shadow: 2px 2px 13px 4px rgba(0,0,0,0.75);
 }
